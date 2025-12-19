@@ -42,7 +42,7 @@ I'm an Information and Communications Technology student at Mahidol University, 
 
 * **Learning:** Learning ReactJS Framework to be an Research Lab Assistant.
 * **Certification:** Preparing for the **HackTheBox Certified Pentenetration Testing Specialist (HTB CPTS)** certification.
-* **CaptureTheFlas:** Participating in weekend CTF events every week.
+* **CaptureTheFlag:** Participating in weekend CTF events every week.
 
 ---
 
