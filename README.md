@@ -118,7 +118,7 @@ Interested in **cybersecurity and machine learning**, focused on digital forensi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soephonepyae&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soephonepyae&show_icons=true&theme=dark&v=1" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soephonepyae&layout=compact&theme=dark" height="180"/>
 </div>
 
